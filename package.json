@@ -1,0 +1,26 @@
+{
+  "name": "jade_demo",
+  "version": "1.0.0",
+  "description": "jade_api_use",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/stableShip/jade_demo.git"
+  },
+  "keywords": [
+    "jade"
+  ],
+  "author": "JIE",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/stableShip/jade_demo/issues"
+  },
+  "homepage": "https://github.com/stableShip/jade_demo",
+  "dependencies": {
+    "jade": "^1.11.0",
+    "lodash": "^4.11.0"
+  }
+}
